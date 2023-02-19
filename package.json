@@ -1,0 +1,15 @@
+{
+  "name": "nodejshandson1",
+  "version": "1.0.0",
+  "description": "Prepbytes Node  Handson 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^19.6.0"
+  }
+}
